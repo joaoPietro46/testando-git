@@ -1,4 +1,4 @@
-# Comondos git
+# Comandos git
 
 - `git clone urlDoRepositorio`: clona o projeto pro meu computador.
 - `git status`: mostra o estado dos arquivos.

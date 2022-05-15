@@ -6,3 +6,4 @@
 - `git add .`: adiciona todos os arquivos no commit.
 - `git commit -m "descrição do commit"`: cria um pacote de versão.
 - `git push`: envia as mudanças pro git hub.
+- `git pull`: atualiza o projeto local com as mudanças que foram feitas no projeto remoto.
